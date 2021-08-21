@@ -3,11 +3,16 @@
 I am a junior student at the University of California, Berkeley pursuing a Bachelor's degree in Computer Science. 
 I am proficient in Java, Python, C, and SQL. 
 
+## Skills
+
+- I am proficient in Java, Python, C, SQL
+- I am proficient in data structures, algorithms, Microsoft Office
+
 
 ## Relevant Coursework
 
 • Structure and Interpretation of Computer Programs (CS 61A)
-    o Gained my knowledge in abstraction techniques to manage program complexity which include higher order
+    '''o Gained my knowledge in abstraction techniques to manage program complexity which include higher order
       functions, recursion, and data abstraction using interfaces, objects, and classes
 • Data Structures (CS 61B) 
     o Gained my knowledge in fundamental data structures, storage management, principles of software
