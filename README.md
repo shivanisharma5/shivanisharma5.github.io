@@ -1,5 +1,6 @@
 ## Shivani Sharma
 
+I am a junior student at the University of California, Berkeley and I am pursuing a major in Computer Science.
 You can use the [editor on GitHub](https://github.com/shivanisharma5/shivanisharma5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
