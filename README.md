@@ -1,6 +1,26 @@
 ## Shivani Sharma
 
-I am a junior student at the University of California, Berkeley and I am pursuing a major in Computer Science.
+I am a junior student at the University of California, Berkeley pursuing a Bachelor's degree in Computer Science. 
+I am proficient in Java, Python, C, and SQL. 
+
+
+## Relevant Coursework
+
+• Structure and Interpretation of Computer Programs (CS 61A)
+    o Gained my knowledge in abstraction techniques to manage program complexity which include higher order
+      functions, recursion, and data abstraction using interfaces, objects, and classes
+• Data Structures (CS 61B) 
+    o Gained my knowledge in fundamental data structures, storage management, principles of software
+      engineering, and algorithms for sorting and searching
+• Discrete Mathematics and Probability Theory (CS 70)
+    o Gained my knowledge in induction, cryptography, error correcting codes, and Bayesian inference
+• Designing Information Devices and Systems (EECS16A)
+    o Gained my knowledge for the fundamental features of a mobile device, including the design of a camera,
+      capacitive touchscreen, and GPS system
+• Foundations of Data Science (DATA C8)
+    o Gained my knowledge in table manipulation using Python, statistical inference, hypothesis testing, A/B
+      testing, and hands-on analysis of real-world datasets
+
 You can use the [editor on GitHub](https://github.com/shivanisharma5/shivanisharma5.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
